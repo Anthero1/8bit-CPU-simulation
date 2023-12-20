@@ -19,7 +19,7 @@ The project is based of off Ben Eater's [Tutorial Series on Youtube ](https://ww
 
 To start, here is a photo of what the completed CPU looks like:
 
-![screenshot of the CPU](/assets/images/CPU_full.jpg)
+![screenshot of the CPU](/docs/assets/images/CPU_full.jpg)
 
 Below you will find explanations on some of the components I made for this project. Not all of the components are explained so if you would like to look at those, please vist the github page where you can download the Logisim Evolution file and open it to see the various custom components I made. I tried to use as few of the prebuilt logisim components as possible, because I wanted to build the CPU myself to fully understand and learn how it functions.
 
@@ -40,7 +40,7 @@ Here is a video demo of the CPU:
 
 The CPU is built around an 8-bit bus. This is essentially just eight wires running vertically through the CPU, and all of the various components connect to this bus to communicate with each other. It also has eight LEDs connected to the top of it to display what value is currently being outputed on the bus.
 
-![screenshot of the bus](/assets/images/Bus.jpg)
+![screenshot of the bus](8bit-CPU-simulation/docs/assets/images/Bus.jpg)
 
 # Registers  {#Register-Main}
 
