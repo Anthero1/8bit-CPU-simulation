@@ -3,4 +3,4 @@
 
  Requires Logisim Evolution and a VHDL simulator.
 
- Please visit [this link](cpu.eroukov.com/cpu-homepage/) for more info
+ Please visit [this link](https://cpu.eroukov.com/cpu-homepage/) for more info
