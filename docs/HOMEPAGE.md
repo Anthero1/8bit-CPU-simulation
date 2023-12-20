@@ -19,14 +19,14 @@ The project is based of off Ben Eater's [Tutorial Series on Youtube ](https://ww
 
 To start, here is a photo of what the completed CPU looks like:
 
-![screenshot of the CPU](./assets/images/CPU_full.jpg)
-![screenshot of the CPU](./docs/assets/images/CPU_full.jpg)
-![screenshot of the CPU](./assets/CPU_full.jpg)
-![screenshot of the CPU](./docs/assets/CPU_full.jpg)
-![screenshot of the CPU](/8bit-CPU-simulation/docs/assets/images/CPU_full.jpg)
-![screenshot of the CPU](/8bit-CPU-simulation/docs/assets/CPU_full.jpg)
-![screenshot of the CPU](./8bit-CPU-simulation/docs/assets/images/CPU_full.jpg)
-![screenshot of the CPU](./8bit-CPU-simulation/docs/assets/CPU_full.jpg)
+![screenshot of the CPU](./assets/images/CPU_full.JPG)
+![screenshot of the CPU](./docs/assets/images/CPU_full.JPG)
+![screenshot of the CPU](./assets/CPU_full.JPG)
+![screenshot of the CPU](./docs/assets/CPU_full.JPG)
+![screenshot of the CPU](/8bit-CPU-simulation/docs/assets/images/CPU_full.JPG)
+![screenshot of the CPU](/8bit-CPU-simulation/docs/assets/CPU_full.JPG)
+![screenshot of the CPU](./8bit-CPU-simulation/docs/assets/images/CPU_full.JPG)
+![screenshot of the CPU](./8bit-CPU-simulation/docs/assets/CPU_full.JPG)
 
 Below you will find explanations on some of the components I made for this project. Not all of the components are explained so if you would like to look at those, please vist the github page where you can download the Logisim Evolution file and open it to see the various custom components I made. I tried to use as few of the prebuilt logisim components as possible, because I wanted to build the CPU myself to fully understand and learn how it functions.
 
