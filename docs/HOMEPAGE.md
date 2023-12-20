@@ -1,6 +1,6 @@
 layout: page
-title: "Home Page"
-permalink: /homepage
+title: "HomePage"
+permalink: /homepage/
 
 
 Hello
